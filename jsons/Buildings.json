@@ -4,6 +4,7 @@
 		"cost": 1,
 		"maintenance": 1,
 		"isNationalWonder": true,
+		"production": 10000,
 		"requiredTech": "Agriculture"
 	}
 ]
